@@ -1,0 +1,95 @@
+.sidebar {
+  background-color: #252a3b;
+  width: 15vw;
+  height: 100vh;
+}
+.logo {
+  width: 15%;
+  /* position: fixed;
+  left: 1%;
+  top: 2%; */
+}
+.first {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding-top: 6%;
+}
+.payment {
+  text-align: start;
+  font-size: 80%;
+  color: #777f8f;
+}
+.payment1 {
+  text-align: end;
+  font-size: 80%;
+  color: #777f8f;
+  margin-top: -15px;
+}
+#form1 {
+  background-color: #1c222c;
+  color: white;
+  margin-top: -15px;
+  /* border: 1px solid black; */
+  /* width: 90%; */
+}
+.me-1 {
+  width: 95%;
+  /* margin-top: 15px; */
+}
+.create {
+  margin-top: 5px;
+}
+.right {
+  width: 85vw;
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  right: 0;
+  background-color: #f3f8f9;
+  overflow-y: scroll;
+  /* background-color: red; */
+  /* position: fixed; */
+  /* font-size: 2000px; */
+}
+.top {
+  background-color: #ffffff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 8vh;
+}
+.action {
+  text-align: start;
+  color: black;
+}
+.smallCard {
+  display: flex;
+  align-items: center;
+}
+.card {
+  margin-left: 20px;
+  width: 7vw;
+}
+.cardtext {
+  color: black;
+  font-size: 10px;
+}
+.two {
+  margin-left: 5px;
+  width: 7vw;
+}
+.cardThree {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  width: 98%;
+  margin: auto;
+}
+.three,
+.four {
+  width: 50%;
+}
+.bar {
+  width: 10%;
+}
